@@ -86,4 +86,4 @@ with gr.Blocks(title="Wine Quality App") as app:
     )
 
 if __name__ == "__main__":
-  app.launch()
+  app.launch(share=True)
