@@ -1,0 +1,2 @@
+Wine Type,Fixed Acidity,Volatile Acidity,Citric Acid,Residual Sugar,Chlorides,Free Sulfur Dioxide,Total Sulfur Dioxide,Density,pH,Sulphates,Alcohol,Wine Quality Prediction,timestamp
+Red,2,1,1,2,1,3,2,2,'-1,2,,Predicted Quality: 5,2025-05-22 21:43:51.976933
